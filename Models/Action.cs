@@ -4,7 +4,7 @@ using System.Text;
 using Npgsql.Schema;
 using Npgsql.TypeHandlers;
 
-namespace Lore_EF_DB_Structure.Model
+namespace LoreDataAccessLibrary.Model
 {
     public class Action
     {

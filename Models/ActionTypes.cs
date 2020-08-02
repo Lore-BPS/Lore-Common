@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lore_EF_DB_Structure.Model
+namespace LoreDataAccessLibrary.Model
 {
     public class ActionTypes
     {

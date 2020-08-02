@@ -4,9 +4,9 @@ using System.Text;
 using NodaTime;
 using Npgsql.TypeHandlers;
 
-namespace Lore_EF_DB_Structure.Model
+namespace LoreDataAccessLibrary.Model
 {
-    public class Step
+    public class Elements
     {
         long StepId { get; set; }
 
